@@ -7,7 +7,7 @@
 	.feature-1,.feature-2{margin-bottom:50px;}
 	.device{display:none;}
 	.screenshots ul li{width:50%;}
-	.screenshots-intro{padding:110px 0 100px 0;}
+	.screenshots-intro{padding:10px 0 10px 0;}
 	.feature-content{width:80%;}
 	.features-slider{height:100%}
 }
@@ -20,6 +20,7 @@
 	nav{margin-top:40px;}
 	.overlay ul{margin-left:0px;}
 	.overlay ul li a{padding:20px 0;min-width:120px;font-size:12px;}
+    
 }
 @media screen and (max-width:465px){
 	.hero h1{font-size:40px;margin:100px 0 45px 0}
@@ -31,4 +32,5 @@
 	.feature-icon{display:block;margin:0 auto;}
 	blockquote p{width:60%;}
 	.features-slider {padding: 11% 50px 10% 50px;}
+    .gobierno_fix {padding-top: 10px;}
 }
